@@ -1,0 +1,12 @@
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke 2e.csprojResolveAssemblyReference.cache
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.Form1.resources
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.Properties.Resources.resources
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke 2e.csproj.GenerateResource.Cache
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\audiopuke 2e.exe.config
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\audiopuke 2e.exe
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\audiopuke 2e.pdb
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\taglib-sharp.dll
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke 2e.exe
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke 2e.pdb

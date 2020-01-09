@@ -1,0 +1,25 @@
+d:\users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\bin\Debug\audiopuke.exe.config
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\obj\Debug\audiopuke.csprojResolveAssemblyReference.cache
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\obj\Debug\audiopuke.Form1.resources
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\obj\Debug\audiopuke.Properties.Resources.resources
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\obj\Debug\audiopuke.csproj.GenerateResource.Cache
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\bin\Debug\audiopuke.exe
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\bin\Debug\audiopuke.pdb
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\obj\Debug\audiopuke.exe
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\obj\Debug\audiopuke.pdb
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\bin\Debug\taglib-sharp.dll
+D:\Users\student\documents\visual studio 2015\Projects\audiopuke\audiopuke\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\audiopuke.exe.config
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\audiopuke.exe
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\audiopuke.pdb
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\taglib-sharp.dll
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.csprojResolveAssemblyReference.cache
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.Form1.resources
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.Properties.Resources.resources
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.csproj.GenerateResource.Cache
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.exe
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.pdb
+D:\Users\student\Documents\Visual Studio 2015\Projects\audiopuke 2e\audiopuke\obj\Debug\audiopuke.compressor.resources
